@@ -4,7 +4,7 @@
 * Run jpeg_to_tensor.ipynb to convert test images to tensors, facilitating batch predictions.
 * Run encode_single.ipynb with decode_single.ipynb to get a demo prediction & Dice calculation
 * Run encode_multi_v1.ipynb to batch encode the test images. It uses a simple loop.
-* The other encode_multi_v2.ipynb is supposed to be faster than v1, however is outputting weired results, I will debug it later.
+* The other encode_multi_v2.ipynb is supposed to be faster than v1, however is outputting reasonable but wrong results, I will debug it later.
 * A decode_multi.ipynb script will be provided soon.
 
 ## Auxiliary Scripts:
